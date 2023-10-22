@@ -58,7 +58,9 @@ x:
 }
 ```
 ## Output:
-![](./images/fml.png)
+![121](https://github.com/A-Thiyagarajan/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118707693/10d3f249-3763-45af-8969-8a03a4a3bcca)
+
+
 ## Result:
 Thus, file management using sequential list is implemented successfully.
 
@@ -124,7 +126,9 @@ y:
 }
 ```
 ## Output:
-![](./images/fmia.png)
+
+![122](https://github.com/A-Thiyagarajan/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118707693/b1e3b825-8492-410a-95e3-066609651c34)
+
 ## Result:
 Thus, file management using Indexed list is implemented successfully.
 
@@ -193,6 +197,8 @@ int main() {
 }
 ```
 ## Output:
-![](./images/fmla.png)
+![123](https://github.com/A-Thiyagarajan/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118707693/ea509633-7a02-4ee0-af44-9b2b834b9b6a)
+
+
 ## Result:
 Thus, file management using Linked list is implemented successfully.
